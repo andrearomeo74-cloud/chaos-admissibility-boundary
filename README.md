@@ -36,6 +36,23 @@ descriptions lose admissibility.
 Chaos marks the regime where this loss becomes unavoidable.
 
 ---
+## Admissibility Condition (Canonical Form)
+
+Within the Congruity framework, descriptive viability is preserved only while:
+
+C = V / (E + I + S)
+
+remains bounded and stable.
+
+In chaotic regimes:
+- E and S remain finite and well-defined
+- I grows exponentially due to sensitivity to initial conditions
+- V (predictive usefulness) saturates or collapses
+
+Chaos emerges when the informational burden required to distinguish
+nearby trajectories exceeds the structural capacity of any stable description.
+
+This marks an admissibility boundary, not a breakdown of determinism.
 
 ## Chaos as a Boundary Phenomenon
 
