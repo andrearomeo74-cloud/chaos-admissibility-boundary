@@ -1,3 +1,13 @@
+> ⚠️ **Status: Boundary Exploration (Non-Canonical)**
+>
+> This repository explores a *boundary condition* related to Congruity.
+> It is **not** a formal model, not a prediction, and not a modification of the canonical grammar.
+>
+> All content here is **speculative, illustrative, and non-binding**.
+> Canonical admissibility rules are defined exclusively in:
+>
+> 👉 https://github.com/andrearomeo74-cloud/congruity-canonical-table
+
 # Chaos as an Admissibility Boundary
 
 *A Congruity 7.0 regime analysis*
